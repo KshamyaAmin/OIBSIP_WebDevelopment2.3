@@ -1,10 +1,6 @@
 # OIBSIP_WebDevelopment2.3
 ---
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)  
-![License](https://img.shields.io/badge/License-MIT-blue)  
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)  ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)  ![License](https://img.shields.io/badge/License-MIT-blue)  
 
 # ✅ To‑Do List App | OIBSIP Web Development Task-3  
 
